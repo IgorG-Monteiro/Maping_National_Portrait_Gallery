@@ -1,0 +1,3 @@
+## Mapping_National_Portrait_Gallery
+# Mapeamento da National Portrait Gallery com grafos
+O National Portrait Gallery é um das mais famosas galerias de arte da Inglaterra e do mundo. No entanto, a alta variedade de peças e a grande quantidade de salas ocasiona em problemas de rota e percurso para os visitantes. Com base nisso, nós mapeamos essa famosa galeria de arte inglesa e implementamos sugestões de trajeto que, ou passam por caminhos mais curtos até determinadas salas, ou percorrem uma ala específica da galeria, pelo uso do algoritmo de Dijkstra, e de X, respectivamente. Essa abordagem, se utilizada em mapas digitais dentro da área do edifício, ou de uma aplicação de celular  poderia trazer enormes benefícios aos visitantes.
